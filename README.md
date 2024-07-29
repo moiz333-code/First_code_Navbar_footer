@@ -1,2 +1,5 @@
 # demo
-This is first repositry
+This is first repository
+<br>
+Author
+M Moiz Hassan
