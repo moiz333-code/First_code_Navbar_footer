@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    height: 50px;
+    background-color: #0f1111;
+
+}
+
+#logo {
+    font-size: 25px;
+    text-decoration: none;
+    color: orange;
+    margin-right: 200px;
+}
+
+#cart {
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+
+#account {
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+
+#contact {
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+
+button {
+    background-color: orange;
+}
+
+.content {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 750px;
+}
+footer {
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
